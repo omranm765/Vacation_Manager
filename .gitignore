@@ -1,0 +1,21 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Maven
+/target/
+
+# IDEs
+/.idea/
+/*.iml
+
+# Logs
+*.log
+
+# H2-Datenbank (lokal!)
+/data/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
